@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>images/drawer.png</file>
+        <file>images/menu.png</file>
+        <file>images/weixin.png</file>
+        <file>qml/MyCamera.qml</file>
+        <file>qml/Touch.qml</file>
+        <file>qml/Sensor.qml</file>
+        <file>images/Bluebubble.svg</file>
+    </qresource>
+</RCC>
